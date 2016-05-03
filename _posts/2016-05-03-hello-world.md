@@ -15,8 +15,7 @@ Welcome to WordPress. This is your first post. Edit or delete it, then start wri
 
 ## Heading 2 Now comes a code block
 
-<pre style="background-color: black; color: white;">
-root@seafile ~ # ls -ahl /opt/seafile/
+<pre style="background-color: black;color: white">root@seafile ~ # ls -ahl /opt/seafile/
 total 84K
 drwxr-xr-x 15 seafile nogroup 4.0K Mar  7 09:51 .
 drwxr-xr-x  3 root    root    4.0K Sep 30  2015 ..
@@ -37,7 +36,7 @@ drwx------  9 seafile nogroup 4.0K Sep 30  2015 seafile-data
 -rw-------  1 seafile nogroup 2.4K Sep 30  2015 seafile_debian_report.log
 -rw-r--r--  1 seafile nogroup  743 Sep 30  2015 seafile-license.txt
 drwxrwxr-x  8 seafile nogroup 4.0K Sep 30  2015 seafile-pro-server-4.3.4
-lrwxrwxrwx  1 seafile nogroup   24 Sep 30  2015 seafile-server-latest -> seafile-pro-server-4.3.4
+lrwxrwxrwx  1 seafile nogroup   24 Sep 30  2015 seafile-server-latest -&gt; seafile-pro-server-4.3.4
 drwxr-xr-x  3 seafile nogroup 4.0K Sep 30  2015 seahub-data
 -rw-------  1 seafile nogroup 2.1K Sep 30  2015 seahub_settings.py
 -rw-------  1 seafile nogroup 2.0K Sep 30  2015 seahub_settings.pyc
