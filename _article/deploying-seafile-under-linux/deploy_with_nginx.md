@@ -1,4 +1,3 @@
-
 ---
 post_title: Configure Seafile with Nginx under Linux
 layout: ht_kb
