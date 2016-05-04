@@ -1,7 +1,7 @@
 ---
 ID: 61
 post_title: ajtest
-author: ajackson
+author: Alexander Jackson
 post_date: 2016-05-03 19:50:04
 post_excerpt: ""
 layout: page

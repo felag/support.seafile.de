@@ -1,7 +1,7 @@
 ---
 ID: 3
 post_title: Test Page
-author: ajackson
+author: Alexander Jackson
 post_date: 2016-05-03 16:11:25
 post_excerpt: ""
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 1
 post_title: Hello world!
-author: ajackson
+author: Alexander Jackson
 post_date: 2016-05-03 15:09:07
 post_excerpt: ""
 layout: post
